@@ -19,4 +19,6 @@ body{font-family: 'Courier New', Courier, monospace;
 .bg-primary{
     background-color: dodgerblue !important;
     background-image: url(../assets/bg-sky.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
