@@ -1,0 +1,22 @@
+p.redred{
+    color:aquamarine;
+    background-color: aqua;
+    border: 15px solid;
+    border-color: blueviolet;
+}
+
+p#redred{
+    background-color: aliceblue;
+
+}
+
+body{font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+.bg-primary{
+    background-color: dodgerblue !important
+    ;
+}
